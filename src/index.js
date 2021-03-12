@@ -1,3 +1,3 @@
-import { formatUrlWithProtocol } from "./lib";
+import { formatUrlWithProtocol, isEmptyObject } from "./lib";
 
-export { formatUrlWithProtocol };
+export { formatUrlWithProtocol, isEmptyObject };
