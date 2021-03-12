@@ -1,13 +1,13 @@
 {
-  "name": "@nath-green/package-name",
+  "name": "@nath-green/utils",
   "version": "0.0.1",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
-  "description": "New package",
+  "description": "Collection of utils",
   "author": "nath-green",
-  "repository": "nath-green/repo-name",
+  "repository": "nath-green/utils",
   "main": "dist/index.js",
   "engines": {
     "node": ">=8",

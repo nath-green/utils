@@ -1,3 +1,3 @@
-import { BasicComponent } from "./lib/basic-component";
+import { formatUrlWithProtocol } from "./lib";
 
-export { BasicComponent };
+export { formatUrlWithProtocol };

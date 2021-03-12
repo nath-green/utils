@@ -1,1 +1,0 @@
-export { BasicComponent } from "./BasicComponent";
